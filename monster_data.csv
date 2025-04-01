@@ -1,0 +1,250 @@
+M_Name,M_Class,Elements,Ailments,First_Appearance,Latest_Appearance,No_of_Appearances,Base_Monster,Sub_Species,Rare_Species,Varient,Deviant,Apex,Risen,Guardian,Orgin_Monster
+Basarios,Flying Wyvern,Fire,Fireblight/Poison/Noxious Poison/Sleep,MH 1,MH Rise: Sunbreak,11,Yes,No,No,No,No,No,No,No,
+Cephadrome,Piscine Wyvern,Water,Paralysis/Waterblight,MH 1,MH Generations Ultimate,9,Yes,No,No,No,No,No,No,No,
+Diablos,Flying Wyvern,None,None,MH 1,MH Rise: Sunbreak,15,Yes,No,No,No,No,No,No,No,
+Fatalis,Elder Dragon,Dragon/Fire,Fireblight/Dragonblight,MH 1,MH World: Iceborne,10,Yes,No,No,No,No,No,No,No,
+Gendrome,Bird Wyvern,None,Paralysis,MH 1,MH Generations Ultimate,10,Yes,No,No,No,No,No,No,No,
+Gravios,Flying Wyvern,Fire,Fireblight/Sleep/Poison,MH 1,MH Wilds,10,Yes,No,No,No,No,No,No,No,
+Gypceros,Bird Wyvern,None,Poison/Stun,MH 1,MH Wilds,11,Yes,No,No,No,No,No,No,No,
+Iodrome,Bird Wyvern,None,Poison,MH 1,MH Generations Ultimate,10,Yes,No,No,No,No,No,No,No,
+Khezu,Flying Wyvern,Thunder,Thunderblight/Paralysis/Stun,MH 1,MH Rise: Sunbreak,12,Yes,No,No,No,No,No,No,No,
+Kirin,Elder Dragon,Thunder,Thunderblight/Paralysis,MH 1,MH World: Iceborne,12,Yes,No,No,No,No,No,No,No,
+Lao-Shan Lung,Elder Dragon,Dragon,None,MH 1,MH Generations Ultimate,7,Yes,No,No,No,No,No,No,No,
+Monoblos,Flying Wyvern,None,None,MH 1,MH 4 Ultimate,7,Yes,No,No,No,No,No,No,No,
+Plesioth,Piscine Wyvern,Water,Waterblight/Sleep,MH 1,MH Generations Ultimate,9,Yes,No,No,No,No,No,No,No,
+Rathalos,Flying Wyvern,Fire,Fireblight/Stun/Poison,MH 1,MH Wilds,18,Yes,No,No,No,No,No,No,No,
+Rathian,Flying Wyvern,Fire,Fireblight/Poison,MH 1,MH Wilds,18,Yes,No,No,No,No,No,No,No,
+Velocidrome,Bird Wyvern,None,None,MH 1,MH Generations Ultimate,10,Yes,No,No,No,No,No,No,No,
+Yian Kut-Ku,Bird Wyvern,Fire,Fireblight,MH 1,MH Wilds,11,Yes,No,No,No,No,No,No,No,
+Black Diablos,Flying Wyvern,None,Stun,MH G,MH World: Iceborne,10,Yes,No,No,No,No,No,No,No,
+Crimson Fatalis,Elder Dragon,Dragon/Fire,Blastblight/Fireblight,MH G,MH Generations Ultimate,8,No,Yes,No,No,No,No,No,No,Fatalis
+Black Gravios,Flying Wyvern,Fire,Fireblight/Sleep/Poison,MH G,MH 4 Ultimate,7,No,Yes,No,No,No,No,No,No,Gravios
+Purple Gypceros,Bird Wyvern,None,Poison/Noxious Poison/Stun,MH G,MH 4 Ultimate,7,No,Yes,No,No,No,No,No,No,Gypceros
+Red Khezu,Flying Wyvern,Thunder,Thunderblight/Paralysis,MH G,MH 4 Ultimate,7,No,Yes,No,No,No,No,No,No,Khezu
+Ashen Lao-Shan Lung,Elder Dragon,Dragon,None,MH G,MH Freedom Unite,5,No,Yes,No,No,No,No,No,No,Lao-Shan Lung
+White Monoblos,Flying Wyvern,None,None,MH G,MH 4 Ultimate,6,No,Yes,No,No,No,No,No,No,Monoblos
+Green Plesioth,Piscine Wyvern,Water,Sleep/Waterblight,MH G,MH 3 Ultimate,6,No,Yes,No,No,No,No,No,No,Plesioth
+Azure Rathalos,Flying Wyvern,Fire,Fireblight/Stun/Poison,MH G,MH World: Iceborne,10,No,Yes,No,No,No,No,No,No,Rathalos
+Silver Rathalos,Flying Wyvern,Fire,Fireblight/Stun/Poison,MH G,MH Rise: Sunbreak,13,No,No,Yes,No,No,No,No,No,Rathalos
+Pink Rathian,Flying Wyvern,Fire,Fireblight/Poison/Noxious Poison,MH G,MH World: Iceborne,10,No,Yes,No,No,No,No,No,No,Rathian
+Gold Rathian,Flying Wyvern,Fire,Fireblight/Poison/Noxious Poison,MH G,MH Rise: Sunbreak,13,No,No,Yes,No,No,No,No,No,Rathian
+Blue Yian Kut-Ku,Bird Wyvern,Fire,Fireblight,MH G,MH 4 Ultimate,7,No,Yes,No,No,No,No,No,No,Yian Kut-Ku
+Yian Garuga,Bird Wyvern,Fire,Fireblight/Poison,MH Freedom,MH World: Iceborne,9,Yes,No,No,No,No,No,No,No,
+Blangonga,Fanged Beast,Ice,Iceblight/Snowman,MH 2,MH Wilds,6,Yes,No,No,No,No,No,No,No,
+Bulldrome,Fanged Beast,None,None,MH 2,MH Generations Ultimate,6,Yes,No,No,No,No,No,No,No,
+Chameleos,Elder Dragon,Dragon,Poison/Fatigue/Defense Down/Vocal Chord Paralysis/Noxious Poison,MH 2,MH Rise: Sunbreak,8,Yes,No,No,No,No,No,No,No,
+Congalala,Fanged Beast,Fire (Conditional),Fireblight/Sleep/Soiled/Poison/Paralysis/Blastblight,MH 2,MH Wilds,7,Yes,No,No,No,No,No,No,No,
+Daimyo Hermitaur,Carapaceon,Water,Waterblight,MH 2,MH Rise: Sunbreak,7,Yes,No,No,No,No,No,No,No,
+White Fatalis,Elder Dragon,Thunder/Dragon,Thunderblight/Dragonblight,MH 2,MH Generations Ultimate,5,No,Yes,No,No,No,No,No,No,Fatalis
+Kushala Daora,Elder Dragon,Dragon,Snowman/Iceblight/Fireblight/Dragonblight,MH 2,MH Rise: Sunbreak,11,Yes,No,No,No,No,No,No,No,
+Rusted Kushala Daora,Elder Dragon,Dragon,Iceblight,MH 2,MH 4 Ultimate,4,No,No,No,Yes,No,No,No,No,Kushala Daora
+Lunastra,Elder Dragon,Fire,Fireblight,MH 2,MH World: Iceborne,5,Yes,No,No,No,No,No,No,No,
+Rajang,Fanged Beast,Thunder,Thunderblight,MH 2,MH Rise: Sunbreak,10,Yes,No,No,No,No,No,No,No,
+Shen Gaoren,Carapaceon,None,None,MH 2,MH Freedom Unite,3,Yes,No,No,No,No,No,No,No,
+Shogun Ceanataur,Carapaceon,Water,Waterblight/Bleeding,MH 2,MH Rise: Sunbreak,6,Yes,No,No,No,No,No,No,No,
+Teostra,Elder Dragon,Fire,Fireblight/Blastblight/Stun,MH 2,MH Rise: Sunbreak,11,Yes,No,No,No,No,No,No,No,
+Yama Tsukami,Elder Dragon,Fire,Paralysis,MH 2,MH Freedom Unite,2,Yes,No,No,No,No,No,No,No,
+King Shakalaka,Lynian,Fire,Sleep,MH 2,MH Freedom Unite,2,Yes,No,No,No,No,No,No,No,
+Giadrome,Bird Wyvern,Ice,Iceblight,MH Freedom 2,MH Generations Ultimate,3,Yes,No,No,No,No,No,No,No,
+Tigrex,Flying Wyvern,Fire/Water/Ice (Conditional),Snowman/Fireblight/Waterblight/Iceblight/Effluvium,MH Freedom 2,MH Rise: Sunbreak,10,Yes,No,No,No,No,No,No,No,
+Akantor,Flying Wyvern,Fire/Dragon,Defense Down/Fireblight/Dragonblight,MH Freedom 2,MH Generations Ultimate,7,Yes,No,No,No,No,No,No,No,
+Vespoid Queen,Neopteron,None,Defense Down/Paralysis,MH Freedom Unite,MH Freedom Unite,1,Yes,No,No,No,No,No,No,No,
+Scarred Yian Garuga,Bird Wyvern,Fire,Fireblight/Poison,MH Freedom Unite,MH World: Iceborne,7,No,No,No,Yes,No,No,No,No,Yian Garuga
+Hypnocatrice,Bird Wyvern,None,Sleep,MH Freedom Unite,MH Freedom Unite,1,Yes,No,No,No,No,No,No,No,
+Nargacuga,Flying Wyvern,None,Bleeding,MH Freedom Unite,MH Rise: Sunbreak,8,Yes,No,No,No,No,No,No,No,
+Ukanlos,Flying Wyvern,Ice,Iceblight/Snowman,MH Freedom Unite,MH Generations Ultimate,5,Yes,No,No,No,No,No,No,No,
+Lavasioth,Piscine Wyvern,Fire,Fireblight,MH Freedom Unite,MH World: Iceborne,5,Yes,No,No,No,No,No,No,No,
+Plum Daimyo Hermitaur,Carapaceon,Water,Waterblight,MH Freedom Unite,MH 4 Ultimate,2,No,Yes,No,No,No,No,No,No,Daimyo Hermitaur
+Terra Shogun Ceanataur,Carapaceon,Water,None,MH Freedom Unite,MH Freedom Unite,1,No,Yes,No,No,No,No,No,No,Shogun Ceanataur
+Emerald Congalala,Fanged Beast,Fire (Conditional),Fireblight/Sleep/Soiled/Poison/Paralysis/Blastblight,MH Freedom Unite,MH 4 Ultimate,3,No,Yes,No,No,No,No,No,No,Congalala
+Copper Blangonga,Fanged Beast,None,Stun,MH Freedom Unite,MH Freedom Unite,1,No,Yes,No,No,No,No,No,No,Blangonga
+Furious Rajang,Fanged Beast,Thunder/Fire/Water/Ice (Conditional),Thunderblight/Fireblight/Waterblight/Iceblight,MH Freedom Unite,MH Rise: Sunbreak,7,No,No,No,Yes,No,No,No,No,Rajang
+Agnaktor,Leviathan,Fire,Fireblight,MH Tri,MH Generations Ultimate,5,Yes,No,No,No,No,No,No,No,
+Barioth,Flying Wyvern,Ice,Iceblight/Snowman,MH Tri,MH Rise: Sunbreak,7,Yes,No,No,No,No,No,No,No,
+Barroth,Brute Wyvern,Water,Muddy/Waterblight,MH Tri,MH Rise: Sunbreak,8,Yes,No,No,No,No,No,No,No,
+Deviljho,Brute Wyvern,Dragon,Defense Down/Dragonblight/Fireblight/Iceblight/Waterblight/Effluvium,MH Tri,MH World: Iceborne,9,Yes,No,No,No,No,No,No,No,
+Gigginox,Flying Wyvern,None,Poison/Noxious Poison,MH Tri,MH 3 Ultimate,3,Yes,No,No,No,No,No,No,No,
+Gobul,Leviathan,None,Paralysis/Stun/Waterblight,MH Tri,MH 3 Ultimate,2,Yes,No,No,No,No,No,No,No,
+Great Baggi,Bird Wyvern,None,Sleep,MH Tri,MH Rise: Sunbreak,5,Yes,No,No,No,No,No,No,No,
+Great Jaggi,Bird Wyvern,None,None,MH Tri,MH 4 Ultimate,5,Yes,No,No,No,No,No,No,No,
+Lagiacrus,Leviathan,Thunder,Thunderblight/Waterblight,MH Tri,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Qurupeco,Bird Wyvern,Fire,Fireblight/Defense Down/Sleep,MH Tri,MH 3 Ultimate,3,Yes,No,No,No,No,No,No,No,
+Royal Ludroth,Leviathan,Water,Waterblight,MH Tri,MH Rise: Sunbreak,7,Yes,No,No,No,No,No,No,No,
+Uragaan,Brute Wyvern,Fire,Fireblight/Sleep,MH Tri,MH World: Iceborne,7,Yes,No,No,No,No,No,No,No,
+Alatreon,Elder Dragon,Dragon/Fire/Ice/Thunder/Water,Dragonblight/Fireblight/Iceblight/Thunderblight/Waterblight/Snowman,MH Tri,MH World: Iceborne,6,Yes,No,No,No,No,No,No,No,
+Ceadeus,Elder Dragon,Water/Dragon,Waterblight/Dragonblight,MH Tri,MH 3 Ultimate,2,Yes,No,No,No,No,No,No,No,
+Jhen Moran,Elder Dragon,None,None,MH Tri,MH 3 Ultimate,3,Yes,No,No,No,No,No,No,No,
+Glacial Agnaktor,Leviathan,Ice/Water,Iceblight/Waterblight,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Agnaktor
+Arzuros,Fanged Beast,Water/Ice (Conditional),None,MH Portable 3rd,MH Rise: Sunbreak,6,Yes,No,No,No,No,No,No,No,
+Sand Barioth,Flying Wyvern,None,None,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Barioth
+Jade Barroth,Brute Wyvern,Ice,Snowman/Iceblight,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Barroth
+Duramboros,Brute Wyvern,None,Stun,MH Portable 3rd,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Baleful Gigginox,Flying Wyvern,Thunder,Paralysis/Thunderblight,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Gigginox
+Great Wroggi,Bird Wyvern,None,Poison,MH Portable 3rd,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Lagombi,Fanged Beast,Ice,Iceblight/Snowman,MH Portable 3rd,MH Rise: Sunbreak,8,Yes,No,No,No,No,No,No,No,
+Green Nargacuga,Flying Wyvern,None,Stun,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Nargacuga
+Nibelsnarf,Leviathan,None,Waterblight,MH Portable 3rd,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Crimson Qurupeco,Bird Wyvern,Thunder,Thunderblight/Stun/Sleep,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Qurupeco
+Purple Ludroth,Leviathan,None,Poison/Noxious Poison,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Royal Ludroth
+Brute Tigrex,Flying Wyvern,None,Fireblight/Waterblight/Effluvium,MH Portable 3rd,MH World: Iceborne,4,No,Yes,No,No,No,No,No,No,Tigrex
+Steel Uragaan,Brute Wyvern,Fire,Soiled/Fireblight,MH Portable 3rd,MH 3 Ultimate,2,No,Yes,No,No,No,No,No,No,Uragaan
+Volvidon,Fanged Beast,None,Paralysis/Soiled,MH Portable 3rd,MH Rise: Sunbreak,6,Yes,No,No,No,No,No,No,No,
+Zinogre,Fanged Wyvern,Thunder,Thunderblight/Paralysis,MH Portable 3rd,MH Rise: Sunbreak,9,Yes,No,No,No,No,No,No,No,
+Amatsu,Elder Dragon,Water/Thunder,Waterblight/Thunderblight,MH Portable 3rd,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Brachydios,Brute Wyvern,None,Slimeblight/Blastblight/Blastscourge,MH 3 Ultimate,MH World: Iceborne,6,Yes,No,No,No,No,No,No,No,
+Goldbeard Ceadeus,Elder Dragon,Water,Waterblight,MH 3 Ultimate,MH 3 Ultimate,1,No,Yes,No,No,No,No,No,No,Ceadeus
+Savage Deviljho,Brute Wyvern,Dragon,Defense Down/Dragonblight/Fireblight/Iceblight/Waterblight,MH 3 Ultimate,MH World: Iceborne,6,No,No,No,Yes,No,No,No,No,Deviljho
+Dire Miralis,Elder Dragon,Fire,Fireblight,MH 3 Ultimate,MH 3 Ultimate,1,Yes,No,No,No,No,No,No,No,
+Rust Duramboros,Brute Wyvern,None,Muddy,MH 3 Ultimate,MH 3 Ultimate,1,No,Yes,No,No,No,No,No,No,Duramboros
+Hallowed Jhen Mohran,Elder Dragon,None,None,MH 3 Ultimate,MH 3 Ultimate,1,No,Yes,No,No,No,No,No,No,Jhen Mohran
+Ivory Lagiacrus,Leviathan,Thunder/Water,Thunderblight/Waterblight,MH 3 Ultimate,MH 3 Ultimate,1,No,Yes,No,No,No,No,No,No,Lagiacrus
+Abyssal Lagiacrus,Leviathan,Thunder,Thunderblight/Waterblight,MH 3 Ultimate,MH 3 Ultimate,1,No,No,Yes,No,No,No,No,No,Lagiacrus
+Lucent Nargacuga,Flying Wyvern,None,Poison/Stun,MH 3 Ultimate,MH Rise: Sunbreak,2,No,No,Yes,No,No,No,No,No,Nargacuga
+Stygian Zinogre,Fanged Wyvern,Dragon,Dragonblight,MH 3 Ultimate,MH World: Iceborne,4,No,Yes,No,No,No,No,No,No,Zinogre
+Ruby Basarios,Flying Wyvern,Fire,Fireblight/Poison/Noxious Poison/Sleep/Stun,MH 4,MH 4 Ultimate,2,No,Yes,No,No,No,No,No,No,Basarios
+Gore Magala,Demi Elder,None,Frenzy Virus,MH 4,MH Wilds,6,Yes,No,No,No,No,No,No,No,
+Shagaru Magala,Elder Dragon,None,Frenzy Virus,MH 4,MH Rise: Sunbreak,5,Yes,No,No,No,No,No,No,No,
+Kecha Wacha,Fanged Beast,Water,Waterblight,MH 4,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Najarala,Snake Wyvern,None,Paralysis/Stun,MH 4,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Nerscylla,Temnoceran,None,Poison/Noxious Poison/Sleep/Webbed,MH 4,MH Wilds,4,Yes,No,No,No,No,No,No,No,
+Seltas,Neopteron,None,Defense Down/Fatigue,MH 4,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Seltas Queen,Neopteron,Water,Waterblight/Soiled/Stun,MH 4,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Tetsucabra,Amphibian,Ice (Conditional),Fatigue/Iceblight,MH 4,MH Generations Ultimate,2,Yes,No,No,No,No,No,No,No,
+Molten Tigrex,Flying Wyvern,None,Blastblight,MH 4,MH 4 Ultimate,2,No,No,Yes,No,No,No,No,No,Tigrex
+Zamtrios,Amphibian,Water/Ice,Waterblight/Iceblight/Snowman,MH 4,MH Generations Ultimate,4,Yes,No,No,No,No,No,No,No,
+Dah'ren Mohran,Elder Dragon,None,None,MH 4,MH 4 Ultimate,2,Yes,No,No,No,No,No,No,No,
+Raging Brachydios,Brute Wyvern,None,Blastblight/Blastscourge/Fireblight,MH 4 Ultimate,MH World: Iceborne,3,No,No,No,Yes,No,No,No,No,Brachydios
+Chaotic Gore Magala,Demi Elder,None,Frenzy Virus,MH 4 Ultimate,MH Rise: Sunbreak,3,No,No,No,Yes,No,No,No,No,Gore Magala
+Ash Kecha Wacha,Fanged Beast,Fire,Fireblight,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Kecha Wacha
+Tidal Najarala,Snake Wyvern,Water,Waterblight/Paralysis,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Najarala
+Shrouded Nerscylla,Temnoceran,None,Paralysis/Poison/Noxious Poison/Webbed,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Nerscylla
+Desert Seltas,Neopteron,None,Paralysis,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Seltas
+Desert Seltas Queen,Neopteron,None,Paralysis,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Seltas Queen
+Seregios,Flying Wyvern,None,Bleeding,MH 4 Ultimate,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Berserk Tetsucabra,Amphibian,None,Fatigue,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Tetsucabra
+Tigerstripe Zamtrios,Amphibian,Water,Waterblight/Paralysis,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Zamtrios
+Shah Dalmadur,Elder Dragon,None,Paralysis,MH 4 Ultimate,MH 4 Ultimate,1,No,Yes,No,No,No,No,No,No,Dalamadur
+Gogmazios,Elder Dragon,Fire,Fireblight/Tarred,MH 4 Ultimate,MH 4 Ultimate,1,Yes,No,No,No,No,No,No,No,
+Redhelm Arzuros,Fanged Beast,None,Stun,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Arzuros
+Astalos,Flying Wyvern,Thunder,Thunderblight/Paralysis/Stun,MH Generations,MH Rise: Sunbreak,3,Yes,No,No,No,No,No,No,No,
+Stonefist Hermitaur,Carapaceon,Water,Waterblight,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Daimyo Hermitaur
+Gammoth,Fanged Beast,Ice,Iceblight/Snowman,MH Generations,MH Generations Ultimate,2,Yes,No,No,No,No,No,No,No,
+Glavenus,Brute Wyvern,Fire,Fireblight,MH Generations,MH World: Iceborne,3,Yes,No,No,No,No,No,No,No,
+Hellblade Glavenus,Brute Wyvern,Fire,Fireblight/Blastblight,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Glavenus
+Great Maccao,Bird Wyvern,None,None,MH Generations,MH Generations Ultimate,2,Yes,No,No,No,No,No,No,No,
+Malfestio,Bird Wyvern,None,Sleep/Confusion,MH Generations,MH Generations Ultimate,2,Yes,No,No,No,No,No,No,No,
+Snowbaron Lagombi,Fanged Beast,Ice,Iceblight/Snowman/Stun,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Lagombi
+Mizutsune,Leviathan,Water,Bubble/Waterblight,MH Generations,MH Wilds,5,Yes,No,No,No,No,No,No,No,
+Silverwind Nargacuga,Flying Wyvern,None,Bleeding,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Nargacuga
+Dreadking Rathalos,Flying Wyvern,Fire,Fireblight/Noxious Poison,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Rathalos
+Dreadqueen Rathian,Flying Wyvern,Fire,Poison/Noxious Poison/Deadly Poison/Fireblight,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Rathian
+Drilltusk Tetsucabra,Amphibian,None,Fatigue/Stun/Iceblight,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Tetsucabra
+Grimclaw Tigrex,Flying Wyvern,None,Iceblight/Waterblight,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Tigrex
+Crystalbeard Uragaan,Brute Wyvern,Fire,Fireblight/Sleep/Stun,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Uragaan
+Deadeye Yian Garuga,Bird Wyvern,Fire,Poison/Noxious Poison/Deadly Poison/Fireblight,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Yian Garuga
+Thunderlord Zinogre,Fanged Wyvern,Thunder,Thunderblight/Stun,MH Generations,MH Generations Ultimate,2,No,No,No,No,Yes,No,No,No,Zinogre
+Nakarkos,Elder Dragon,Dragon,Mucus/Boned/Fireblight/Blastblight/Dragonblight/Thunderblight/Paralysis,MH Generations,MH Generations Ultimate,2,Yes,No,No,No,No,No,No,No,
+Boltreaver Astalos,Flying Wyvern,Thunder,Thunderblight/Paralysis,MH Generations Ultimate,MH Generations Ultimate,1,No,No,No,No,Yes,No,No,No,Astalos
+Ahtal-Ka,Neopteron,None,Defense Down/Webbed,MH Generations Ultimate,MH Generations Ultimate,1,Yes,No,No,No,No,No,No,No,
+Bloodbath Diablos,Flying Wyvern,None,None,MH Generations Ultimate,MH Generations Ultimate,1,No,No,No,No,Yes,No,No,No,Diablos
+Elderfrost Gammoth,Fanged Beast,Ice,Iceblight/Snowman,MH Generations Ultimate,MH Generations Ultimate,1,No,No,No,No,Yes,No,No,No,Gammoth
+Nightcloak Malfestio,Bird Wyvern,None,Sleep/Confusion,MH Generations Ultimate,MH Generations Ultimate,1,No,No,No,No,Yes,No,No,No,Malfestio
+Soulseer Mizutsune,Leviathan,Water/Fire,Waterblight/Bubble/Fireblight,MH Generations Ultimate,MH Generations Ultimate,1,No,No,No,No,Yes,No,No,No,Mizutsune
+Rustrazor Ceanataur,Carapaceon,Water,Waterblight/Bleeding/Defense Down,MH Generations Ultimate,MH Generations Ultimate,1,No,No,No,No,Yes,No,No,No,Shogun Ceanataur
+Valstrax,Elder Dragon,Dragon,Dragonblight,MH Generations Ultimate,MH Generations Ultimate,1,Yes,No,No,No,No,No,No,No,
+Ancient Leshen,Relict,None,Bleeding,MH World,MH World: Iceborne,2,No,Yes,No,No,No,No,No,No,Leshen
+Anjanath,Brute Wyvern,Fire/Water/Ice (Conditional),Fireblight,MH World,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Bazelgeuse,Flying Wyvern,Fire,Fireblight,MH World,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Behemoth,Elder Dragon,Fire/Thunder,Fireblight/Thunderblight/Bleeding/Defense Down,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Dodogama,Fanged Wyvern,None,Blastblight,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Great Girros,Fanged Wyvern,None,Paralysis,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Great Jagras,Fanged Wyvern,None,None,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Jyruatodus,Piscine Wyvern,Water,Waterblight/Muddy,MH World,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Kulu-Ya-Ku,Bird Wyvern,None,Stun/Fireblight,MH World,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Kulve Taroth,Elder Dragon,Fire,Fireblight,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Legiana,Flying Wyvern,Ice,Iceblight,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Leshen,Relict,None,Bleeding,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Odogaron,Fanged Wyvern,None,Bleeding,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Nergigante,Elder Dragon,None,None,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Paolumu,Flying Wyvern,None,None,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Pukei-Pukei,Bird Wyvern,None,Poison/Stun,MH World,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Radobaan,Brute Wyvern,None,Sleep,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Tobi-Kadachi,Fanged Wyvern,Thunder,Thunderblight,MH World,MH Rise: Sunbreak,4,Yes,No,No,No,No,No,No,No,
+Tzitzi-Ya-Ku,Bird Wyvern,None,Stun,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Vaal Hazak,Elder Dragon,None,Effluvium,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Xeno'jiiva,Elder Dragon,Fire/Dragon,Dragonblight/Fireblight,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Zorah Magdaros,Elder Dragon,Fire,Fireblight/Stun,MH World,MH World: Iceborne,2,Yes,No,No,No,No,No,No,No,
+Fulgur Anjanath,Brute Wyvern,Thunder,Thunderblight,MH World: Iceborne,MH World: Iceborne,1,No,Yes,No,No,No,No,No,No,Anjanath
+Banbaro,Brute Wyvern,Fire/Water/Ice (Conditional),Fireblight/Waterblight/Iceblight/Effluvium,MH World: Iceborne,MH World: Iceborne,1,Yes,No,No,No,No,No,No,No,
+Frostfang Barioth,Flying Wyvern,Ice,Iceblight,MH World: Iceborne,MH World: Iceborne,1,No,No,No,Yes,No,No,No,No,Barioth
+Seething Bazelgeuse,Flying Wyvern,Fire,Fireblight,MH World: Iceborne,MH Rise: Sunbreak,2,No,No,No,Yes,No,No,No,No,Bazelgeuse
+Beotodus,Piscine Wyvern,Ice,Iceblight,MH World: Iceborne,MH World: Iceborne,1,Yes,No,No,No,No,No,No,No,
+Acidic Glavenus,Brute Wyvern,None,Defense Down,MH World: Iceborne,MH World: Iceborne,1,No,Yes,No,No,No,No,No,No,Glavenus
+Shrieking Legiana,Flying Wyvern,Ice,Iceblight,MH World: Iceborne,MH World: Iceborne,1,No,No,No,Yes,No,No,No,No,Legiana
+Namielle,Elder Dragon,Water/Thunder,Waterblight/Thunderblight,MH World: Iceborne,MH World: Iceborne,1,Yes,No,No,No,No,No,No,No,
+Ruiner Nergigante,Elder Dragon,None,Bleeding,MH World: Iceborne,MH World: Iceborne,1,No,No,No,Yes,No,No,No,No,Nergigante
+Ebony Odogaron,Fanged Wyvern,Dragon,Dragonblight/Bleeding,MH World: Iceborne,MH World: Iceborne,1,No,Yes,No,No,No,No,No,No,Odogaron
+Nightshade Paolumu,Flying Wyvern,None,Sleep,MH World: Iceborne,MH World: Iceborne,1,No,Yes,No,No,No,No,No,No,Paolumu
+Coral Pukei-Pukei,Bird Wyvern,Water,Waterblight,MH World: Iceborne,MH World: Iceborne,1,No,Yes,No,No,No,No,No,No,Pukei-Pukei
+Safi'jiiva,Elder Dragon,None,Fireblight,MH World: Iceborne,MH World: Iceborne,1,Yes,No,No,No,No,No,No,No,
+Shara Ishvalda,Elder Dragon,None,Stun,MH World: Iceborne,MH World: Iceborne,1,Yes,No,No,No,No,No,No,No,
+Viper Tobi-Kadachi,Fanged Wyvern,None,Poison/Noxious Poison/Paralysis,MH World: Iceborne,MH World: Iceborne,1,No,Yes,No,No,No,No,No,No,Tobi-Kadachi
+Blackveil Vaal Hazak,Elder Dragon,None,Effluvium/Zombification,MH World: Iceborne,MH World: Iceborne,1,No,No,No,Yes,No,No,No,No,Vaal Hazak
+Velkhana,Elder Dragon,Ice,Iceblight/Frostblight,MH World: Iceborne,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Aknosom,Bird Wyvern,Fire,Fireblight,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Almudron,Leviathan,Water,Waterblight/Muddy,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Apex Arzuros,Fanged Beast,Water/Ice(Conditional),Stun,MH Rise,MH Rise: Sunbreak,2,No,No,No,No,No,Yes,No,No,Arzuros
+Bishaten,Fanged Beast,None,Poison/Stun/Paralysis,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Apex Diablos,Flying Wyvern,None,None,MH Rise,MH Rise: Sunbreak,2,No,No,No,No,No,Yes,No,No,Diablos
+Goss Harag,Fanged Beast,Ice,Iceblight/Stun,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Great Izuchi,Bird Wyvern,None,None,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Magnamalo,Fanged Wyvern,None,Hellfireblight,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Apex Mizutsune,Leviathan,Water,Hellfireblight/Waterblight/Blastblight,MH Rise,MH Rise: Sunbreak,2,No,No,No,No,No,Yes,No,No,Mizutsune
+Rakna-Kadaki,Temnoceran,Fire,Fireblight/Webbed,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Apex Rathalos,Flying Wyvern,Fire,Poison/Fireblight,MH Rise,MH Rise: Sunbreak,2,No,No,No,No,No,Yes,No,No,Rathalos
+Apex Rathian,Flying Wyvern,Fire,Poison/Noxious Poison/Fireblight,MH Rise,MH Rise: Sunbreak,2,No,No,No,No,No,Yes,No,No,Rathian
+Somnacanth,Leviathan,None,Sleep/Stun/Blastblight/Waterblight,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Tetranadon,Amphibian,Water,Waterblight/Stun,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Thunder Serpent Narwa,Elder Dragon,Thunder,Thunderblight/Stun,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Narwa the Allmother,Elder Dragon,Thunder,Thunderblight,MH Rise,MH Rise: Sunbreak,2,No,No,No,Yes,No,No,No,No,Thunder Serpent Narwa
+Crimson Glow Valstrax,Elder Dragon,Dragon,Dragonblight,MH Rise,MH Rise: Sunbreak,2,No,No,No,Yes,No,No,No,No,Valstrax
+Wind Serpent Ibushi,Elder Dragon,Dragon,Dragonblight,MH Rise,MH Rise: Sunbreak,2,Yes,No,No,No,No,No,No,No,
+Apex Zinogre,Fanged Wyvern,Thunder,Thunderblight,MH Rise,MH Rise: Sunbreak,2,No,No,No,No,No,Yes,No,No,Zinogre
+Magma Almudron,Leviathan,Fire,Fireblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,Yes,No,No,No,No,No,No,Almudron
+Blood Orange Bishaten,Fanged Beast,Fire,Fireblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,Yes,No,No,No,No,No,No,Bishaten
+Risen Chameleos,Elder Dragon,None,Noxious Poison,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,No,No,No,Yes,No,Chameleos
+Espinas,Flying Wyvern,Fire,Fireblight/Poison/Paralysis,MH Rise: Sunbreak,MH Rise: Sunbreak,1,Yes,No,No,No,No,No,No,No,
+Flaming Espinas,Flying Wyvern,Fire,Fireblight/Poison/Defense Down,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,Yes,No,No,No,No,No,No,Espinas
+Gaismagorm,Elder Dragon,None,Blastblight/Bloodblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,Yes,No,No,No,No,No,No,No,
+Garangolm,Fanged Beast,Fire/Water/Ice (Conditional),Fireblight/Blastblight/Waterblight/Iceblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,Yes,No,No,No,No,No,No,No,
+Risen Kushala Daora,Elder Dragon,Dragon,Dragonblight/Iceblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,No,No,No,Yes,No,Kushala Daora
+Lunagaron,Fanged Wyvern,Ice,Iceblight/Stun,MH Rise: Sunbreak,MH Rise: Sunbreak,1,Yes,No,No,No,No,No,No,No,
+Scorned Magnamalo,Fanged Wyvern,None,Hellfireblight/Dragonblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,Yes,No,No,No,No,Magnamalo
+Malzeno,Elder Dragon,Dragon,Bloodblight/Dragonblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,Yes,No,No,No,No,No,No,No,
+Primordial Malzeno,Elder Dragon,Dragon,Bloodblight/Dragonblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,Yes,No,No,No,No,Malzeno
+Violet Mizutsune,Leviathan,Fire,Fireblight/Resistance Down,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,Yes,No,No,No,No,No,Mizutsune
+Pyre Rakna-Kadaki,Temnoceran,Fire,Fireblight/Blastblight/Webbed,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,Yes,No,No,No,No,No,No,Rakna-Kadaki
+Risen Shagaru Magala,Elder Dragon,None,Stun/Frenzy Virus,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,No,No,No,Yes,No,Shagaru Magala
+Aurora Somnacanth,Leviathan,Ice,Iceblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,Yes,No,No,No,No,No,No,Somnacanth
+Risen Teostra,Elder Dragon,Fire,Fireblight/Blastblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,No,No,No,Yes,No,Teostra
+Risen Crimson Glow Valstrax,Elder Dragon,Dragon,Dragonblight,MH Rise: Sunbreak,MH Rise: Sunbreak,1,No,No,No,No,No,No,Yes,No,Crimson Glow Valstrax
+Ajarakan,Fanged Beast,Fire,Fireblight/Blastblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Arkveld,Flying Wyvern,Dragon,Dragonblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Balahara,Leviathan,Water,Waterblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Chatacabra,Amphibian,None,None,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Doshaguma,Fanged Beast,None,None,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Guardian Doshaguma,Construct,None,Defense Down,MH Wilds,MH Wilds,1,No,No,No,No,No,No,No,Yes,Doshaguma
+Guardian Ebony Odogaron,Construct,Dragon,Dragonblight/Bleeding,MH Wilds,MH Wilds,1,No,No,No,No,No,No,No,Yes,Ebony Odogaron
+Guardian Fulgar Anjanath,Construct,Thunder,Thunderblight,MH Wilds,MH Wilds,1,No,No,No,No,No,No,No,Yes,Fulgar Anjanath
+Guardian Rathalos,Construct,Fire,Fireblight/Poison,MH Wilds,MH Wilds,1,No,No,No,No,No,No,No,Yes,Rathalos
+Guardian Arkveld,Construct,Dragon,Dragonblight,MH Wilds,MH Wilds,1,No,No,No,No,No,No,No,Yes,Arkveld
+Hirabami,Leviathan,Ice,Frostblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Jin Dahaad,Leviathan,Ice,Iceblight/Frostblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Lala Barina,Temnoceran,None,Paralysis,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Nu Udra,Cephalopod,Fire,Fireblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Quematrice,Brute Wyvern,Fire,Fireblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Rey Dau,Flying Wyvern,Thunder,Thunderblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Rompopolo,Brute Wyvern,None,Poison,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Uth Duna,Leviathan,Water,Waterblight,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Xu Wu,Cephalopod,None,None,MH Wilds,MH Wilds,1,Yes,No,No,No,No,No,No,No,
+Zoh Shia,Construct,Dragon/Fire/Thunder,Dragonblight/Fireblight/Thunderblight,MH Wilds,MH Wilds,1,No,No,No,No,No,No,No,Yes,Unknown
